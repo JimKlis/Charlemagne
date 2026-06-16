@@ -1,0 +1,54 @@
+.title {
+    background-color: #AACCD6;
+}
+
+.footer {
+    background-color: #112E81;
+    margin-bottom: 0;
+}
+
+.title h1, .jumbo h1 {
+    font-family: Cinzel;
+}
+
+.title p, .jumbo p {
+    font-family: serif;
+}
+
+img.icon-white {
+    filter: brightness(0) invert(1);
+}
+
+.accom {
+    font-family: serif;
+}
+
+.accom h2 {
+    font-family: Cinzel;
+}
+
+.carousel-text h2 {
+    font-family: Cinzel;
+    /* margin-top: 150px; */
+}
+
+.carousel-text ul {
+    margin-bottom: 50px;
+}
+
+.carousel-text li {
+    font-family: serif;
+    font-size: 16px;
+    margin-right: 170px;
+    padding-left: 0;
+}
+
+#align-text-carousel {
+    align-items: center;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1);
+}
+
